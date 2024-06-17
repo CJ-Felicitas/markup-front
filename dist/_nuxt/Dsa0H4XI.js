@@ -1,0 +1,1 @@
+import{_ as e,t,v as n,B as _,z as a,x as r}from"./2Kl5PCbP.js";const d={};function i(c,o){return t(),n("div",null," this is the test component ")}const l=e(d,[["render",i]]),m={},f=r("div",null," asd ",-1);function p(c,o){const s=l;return t(),n("div",null,[_(" Hello Event Page this the main pages "),f,a(s)])}const h=e(m,[["render",p]]);export{h as default};

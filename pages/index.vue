@@ -1,6 +1,6 @@
 <template>
     <div>
-        Hello Nuxt?
+        Hello Nuxt Github Firebase Actions
 
     </div>
 </template>

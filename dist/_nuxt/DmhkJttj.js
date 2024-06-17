@@ -1,0 +1,1 @@
+import{_ as t,v as a,L as s,x as o,t as l}from"./2Kl5PCbP.js";const n={},r=o("p",null,"Some default layout content shared across all pages",-1);function c(e,d){return l(),a("div",null,[r,s(e.$slots,"default")])}const f=t(n,[["render",c]]);export{f as default};
